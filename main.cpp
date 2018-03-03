@@ -14,7 +14,7 @@ int factorial(int x){
 int main()
 {
     int x;
-    cout <<"Enter the value to find its factorial: ";
+    cout <<"Input the value to find its factorial: ";
     cin>>x;
     cout<<factorial(x)<<endl;
 }
